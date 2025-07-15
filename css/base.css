@@ -25,7 +25,7 @@
     color: #c9f524;
 }
 
-button {
+.headerButton {
     background-color: #c9f524;
     border-radius: 10px;
     border: none;
@@ -48,6 +48,27 @@ button {
 
 .trilhaimg {
     padding: 80px;
-    height: 722px;
-    width: 588px;
+    height: auto;
+    width: 600px;
+}
+
+.trilhaText {
+    padding: 80px;
+    margin: 10px;
+    font-size: 28px;
+    width: 800px;
+}
+
+.trilhaTitle {
+    font-size: 96px;
+}
+
+.trilhaButton {
+    margin-top: 40px;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: #c9f524;
+    font-size: 24px;
+    font-weight: bold;
 }
