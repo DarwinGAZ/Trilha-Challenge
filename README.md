@@ -29,21 +29,6 @@ Este desafio faz parte da mentoria e aprendizado da comunidade da Trilha do Dev.
 
 ---
 
-## Estrutura do projeto
-
-Trilha-Challenge/
-│
-├── assets/ # Imagens e ícones usados no projeto
-├── css/
-│ ├── base.css # Reset e estilos base
-│ └── layout.css # Estilos de layout e responsividade
-├── js/
-│ └── main.js # Scripts JavaScript do projeto
-├── index.html # Página principal
-└── README.md # Este arquivo
-
----
-
 ## Como usar
 
 1. Clone este repositório:
