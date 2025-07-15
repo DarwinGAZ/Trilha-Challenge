@@ -1,0 +1,48 @@
+@media (min-width: 768px) {
+    header {
+        display: flex;
+        padding: 50px;
+        text-align: center;
+        flex-direction: column;
+        background-image: url("/assets/images/backgroundLogin.jpg");
+        color: white;
+    }
+
+    section {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        background-color: #1f1f1f;
+        color: white;
+    }
+
+    .info-card--section {
+        display: flex;
+        flex-direction: row;
+        text-align: center;
+        color: white;
+        background-color: #1f1f1f;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        background-color: #c9f31d;
+        padding: 75px;
+    }
+
+    .footer-button {
+        border: none;
+        border-radius: 10px;
+        background-color: black;
+        font-size: 24px;
+        color: #c8f31d;
+        margin: 20px;
+        padding: 20px;
+        transition: all 0.3s linear;
+        width: fit-content;
+    }
+}

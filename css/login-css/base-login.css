@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "roboto";
+}
+
+.header-title {
+    color: white;
+}
+
+.header-paragraph {
+    margin: 10px;
+}
+
+.section-title {
+    margin: 30px 0px 10px 0px;
+}
+
+.span-section-title {
+    color: #c9f31d;
+}
+
+.info-card-title {
+    padding: 10px;
+}
+
+.info-card-desc {
+    padding: 5px;
+}
+
+.info-card--button {
+    font-size: 22px;
+    background-color: black;
+    padding: 20px;
+    margin: 20px 10px 10px 10px;
+    color: #c8f31d;
+    border: none;
+    border-radius: 10px;
+    transition: all 0.3s linear;
+    cursor: pointer;
+}
+
+.info-card--button:hover {
+    transform: scale(1.05);
+}
+
+.footer-button {
+    border: none;
+    border-radius: 10px;
+    background-color: black;
+    font-size: 24px;
+    color: #c8f31d;
+    margin: 20px;
+    padding: 20px;
+    transition: all 0.3s linear;
+}
+
+.footer-button:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}
