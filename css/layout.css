@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "roboto";
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #c8f31d;
+    flex-wrap: wrap;
+}
+
+.info-card {
+    padding: 50px;
+    margin: 40px;
+    background-color: black;
+    color: white;
+    width: 511px;
+    height: 495px;
+    border-radius: 10px;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    padding: 30px;
+    color: white;
+}
