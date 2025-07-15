@@ -38,9 +38,15 @@ header {
 
 .trilha--section {
     display: flex;
-    flex-direction: row;
     background-color: black;
     color: white;
+    gap: 30px;
+}
+
+.learn--section {
+    display: flex;
+    justify-content: center;
+    background-color: #c9f524;
 }
 
 footer {

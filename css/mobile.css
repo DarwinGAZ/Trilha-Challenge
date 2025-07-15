@@ -1,0 +1,150 @@
+@media (max-width: 768px) {
+    #logoHeader {
+        margin: 30px;
+        width: 80%;
+    }
+
+    .header-title {
+        font-size: 32px;
+        padding: 0 20px;
+    }
+
+    .header-subtitle-1,
+    .header-subtitle-2 {
+        font-size: 18px;
+        width: auto;
+        padding: 0 20px;
+    }
+
+    .headerButton {
+        font-size: 20px;
+        font-weight: bold;
+        padding: 15px;
+        margin: 30px 0;
+        background-color: #c8f31d;
+        border: none;
+        border-radius: 10px;
+    }
+
+    .info-card {
+        width: 90%;
+        height: auto;
+        padding: 20px;
+        gap: 30px;
+    }
+
+    .trilha--section {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 30px 10px;
+    }
+
+    .trilhaimg {
+        width: 90%;
+        padding: 0;
+    }
+
+    .trilhaText {
+        font-size: 18px;
+        width: auto;
+        padding: 0;
+    }
+
+    .trilhaTitle {
+        font-size: 36px;
+    }
+
+    .trilhaButton {
+        font-size: 20px;
+        font-weight: bold;
+        padding: 15px;
+        margin: 20px 0px 0px 0px;
+        background-color: #c8f31d;
+        border: none;
+        border-radius: 10px;
+    }
+
+    .learnParagraph {
+        font-size: 18px;
+        width: auto;
+        margin: 0px 20px 0 20px;
+        background-color: white;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+    .learnTitle,
+    .learnTech {
+        font-size: 20px;
+        padding: 20px;
+        margin: 20px;
+        background-color: black;
+        color: white;
+        border-radius: 10px;
+    }
+
+    footer {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 10px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1455px) {
+    .header-title {
+        font-size: 40px;
+        padding: 0 30px;
+    }
+
+    .header-subtitle-1,
+    .header-subtitle-2 {
+        font-size: 22px;
+        width: auto;
+        padding: 0 20px;
+    }
+
+    .info-card {
+        width: 80%;
+        height: auto;
+        gap: 40px;
+    }
+
+    .trilha--section {
+        flex-direction: column;
+        align-items: center;
+        padding: 40px 20px;
+        text-align: center;
+    }
+
+    .trilhaText {
+        font-size: 20px;
+        width: auto;
+        padding: 0;
+    }
+
+    .trilhaTitle {
+        font-size: 48px;
+    }
+
+    .learnParagraph {
+        width: auto;
+        font-size: 20px;
+        margin: 20px;
+        padding: 20px;
+    }
+
+    .learnTitle,
+    .learnTech {
+        font-size: 24px;
+        margin: 20px;
+        padding: 20px;
+    }
+
+    footer {
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+}
