@@ -104,7 +104,7 @@
     color: white;
     border-radius: 10px;
     font-weight: bold;
-    padding: 10px;
+    padding: 20px;
     font-size: 1.3rem;
     margin: 20px 20px 0px 20px;
 }
@@ -116,7 +116,7 @@
     font-weight: bold;
     margin: 0px 20px 20px 20px;
     font-size: 1.3rem;
-    padding: 10px;
+    padding: 20px;
 }
 
 .faq li {
